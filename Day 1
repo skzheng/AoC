@@ -1,5 +1,3 @@
-
-
 function inverseCaptcha(num){
   let sum = 0;
   num =  (num).split('');
